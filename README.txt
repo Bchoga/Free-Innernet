@@ -3,8 +3,9 @@
 > format sd card to FAT for it to be usable by micro controllers.
 > copy the files in the webData folder into the root of the sd card, that is to say do not put them in a folder other than the foldres already given
   copy straight out of the webData folder into the empty sd card.
+> put images into the images folder, these are used by the website pages and rename reffering to the names in the html code.
 > put your music (mp3 files) into the music folder in the sd card.
-> put your videos (mp4 files) into the videos folder in the sd card.
+> put your videos (mp4 files) into the video folder in the sd card.
 > load the ino file from the code folder code into your arduino ide.
 > from the include lines on the top of the ino file in the arduino ide, you can see which libraries where used.
 > use the library manager in the ide to download the required libraries.
